@@ -77,3 +77,5 @@ exit $TEST_SUCCESS
 
 <img width="966" alt="app-links-failed" src="https://user-images.githubusercontent.com/16755620/139094669-09de44e1-25ac-4178-aaeb-2f8c05ce293b.png">
 
+## Read More
+About Android App Links https://developer.android.com/training/app-links
